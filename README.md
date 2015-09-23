@@ -5,7 +5,7 @@ Python script to remove duplicate object files from a static library.
 
     $ Python rdof.py source target
 
-Remove all object files contains in target statick library from source static library and create a new source static library file in current directory.
+Remove all object files contains in **target** static library from **source** static library and create a new static library file in current directory.
 
 For example:
 
